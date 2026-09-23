@@ -34,7 +34,7 @@ A version-control log was built in Excel to track all six SOP versions *(SOP num
 
 ## Result
 
-All three SOPs were completed at both versions, with headers and footers identifying each document consistently across pages. The AI-generated diffs correctly identified every textual change but consistently missed the operational and clinical significance of those changes. The version-control log and dashboard are both functional, using live formulas rather than hardcoded values, so the dashboard updates automatically as dates change.
+All three SOPs were completed at both versions, with headers and footers identifying each document consistently across pages. The AI-generated differences correctly identified every textual change but consistently missed the operational and clinical significance of those changes. The version-control log and dashboard are both functional, using live formulas rather than hardcoded values, so the dashboard updates automatically as dates change.
 
 ## Dashboard
 
