@@ -12,9 +12,9 @@ AI tools can speed up document review, but AI-generated summaries are not automa
 
 Three clinical data SOPs were developed:
 
-* **SOP-CD-001 — Query Resolution**
-* **SOP-CD-002 — Data Entry**
-* **SOP-CD-003 — Database Lock**
+* **SOP-CD-001 - Query Resolution**
+* **SOP-CD-002 - Data Entry**
+* **SOP-CD-003 - Database Lock**
 
 For each SOP, both versions were compared using an AI assistant, which produced a section-by-section summary of the differences. Each AI-generated summary was then manually checked against the original text to confirm accuracy, and reviewed a second time for something the AI summary could not do on its own: judging whether each change actually strengthens or weakens data integrity in a real clinical trial context.
 
